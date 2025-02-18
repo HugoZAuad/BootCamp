@@ -31,6 +31,3 @@ O projeto utiliza um arquivo CSS chamado estilo.css para aplicar estilos à pág
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
-
-## Deploy
--
